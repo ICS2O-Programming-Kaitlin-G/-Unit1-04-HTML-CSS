@@ -1,0 +1,26 @@
+/* Created by: Katie
+* Created on: February 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color: lightgoldenrodyellow;
+  color: darkgoldenrod;
+}
+
+h1 {
+  background-color: darkolivegreen;
+  color: cornsilk;
+  padding: 30px;
+  text-align: center;
+}
+
+p {
+  background-color: lightgray;
+  color: darkslategray;
+}
+
+li {
+  color: darkgoldenrod;
+}
