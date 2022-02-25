@@ -5,5 +5,22 @@
 */
 
 body {
-  
+  background-color: palevioletred;
+}
+
+h1 {
+  background-color: lightpink;
+  color: mediumvioletred;
+  padding: 30px;
+  text-align: center;
+}
+
+p{
+  background-color: darkmagenta;
+  color: cornsilk;
+  padding: 5px;
+}
+
+li {
+  color: palegoldenrod;
 }
