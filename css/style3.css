@@ -3,3 +3,29 @@
 * This CSS file defines the style for plants.html
 * ICS2O-Unit1-04-HTML-CSS
 */
+
+body {
+  background-color: cornflowerblue;
+}
+
+h1 {
+  background-color: steelblue;
+  color: cornsilk;
+  padding: 30px;
+  text-align: center;
+}
+
+h2 {
+  background-color: royalblue;
+  color: lightgoldenrodyellow;
+  padding: 10px;
+  text-align: center;
+}
+
+p {
+  color: darkslategray;
+}
+
+li {
+  color: darkslategray;
+}
